@@ -1,0 +1,12 @@
+# IDE и среды разработки
+.idea/
+env/
+venv/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# СУБД SQLite
+*.sqlite
+*.db
